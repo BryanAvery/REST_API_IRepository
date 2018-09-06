@@ -1,0 +1,14 @@
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\ProductsApp.dll
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\ProductsApp.pdb
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\System.Web.Http.dll
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\System.Web.Http.xml
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\b.avery\Documents\Visual Studio 2015\Projects\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\HttpSample\server\ProductsApp\obj\Debug\ProductsApp.pdb
